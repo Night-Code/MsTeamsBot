@@ -1,0 +1,3 @@
+Monday->13:55=Bot=14:50
+Tuesday->6:15=CSE-4 Python=11:45
+Wednesday->21:50=Bot=22:55
